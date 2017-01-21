@@ -22,3 +22,11 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+#intellij
+.idea
+Aet-offline-report.iml
+
+#application generated files
+reportData
+aet-offline-report.exe
