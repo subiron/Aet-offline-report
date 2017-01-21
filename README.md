@@ -7,7 +7,7 @@ Simple tool that allows to download AET report and view it offline without conne
 execute:
 < aet-offline-report binary file > "< retport url > "
  
- e.g. foe windows 
+ e.g. for windows 
  
  ```aet-offline-report.exe "http://aet-vagrant/report.html?company=aet0&project=aet2&correlationId=aet0-aet2-main0-1483601066568```
  
